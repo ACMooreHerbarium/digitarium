@@ -1,0 +1,492 @@
+/*CSS for A. C. Moore Herbarium*/
+
+
+contentTable {
+	margin-top: 8px;
+}
+
+.subhdrnav
+{
+	font-size:.8em;
+}
+
+.topTitle
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.9em;
+	color: #008080;
+	font-weight:bold;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.subtitle-italic
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:.7em;
+	color: #008080;
+	font-weight:bold;
+	font-style:italic;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.header 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	line-height: 2.0em;
+	font-weight: bold;
+	color: #663333;
+	text-decoration: underline;
+}
+
+.headerRedLarge 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.6em;
+	font-weight: bold;
+	color: #663333;	
+	}
+
+/*Comment out css hr formatting
+hr {
+	color:#000000;
+	width:100%;
+	height:1px;
+}
+
+
+.contentDivide {
+	background: #008080;
+	height: 3px;
+	width: 10px;
+	border-style: none;
+	border-color: #008080;
+	
+}
+
+
+.contentText2 {
+	line-height:10px;
+	padding-left:8px;
+	margin-bottom: 0px;
+	height: 15px;
+}
+
+.largeContentText {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13.5px;
+	line-height:19px;
+	}
+	
+.blue {
+	color: #0000FF;
+	
+	}
+*/
+
+
+hr.Plain {
+	color:#CCCCCC; 
+	width:100%;
+	height:2px;
+}	
+
+.indentHeaderLine {
+	padding-left: 85px;
+	font-size:1.05em;
+	font-style:normal;
+	font-weight:800;
+	color:#800000;
+}
+
+.indentParagraph {
+	padding-left: 85px;
+	margin-bottom: 20px;
+}
+
+.indentParagraph2 {
+	padding-left: 75px;
+	margin-bottom: 2px;
+	font-weight:bold;
+}
+
+.indentParagraph3 {
+	padding-left: 100px;
+	margin-bottom: 2px;
+
+}
+
+.dotEntry {
+	margin-left: 25px;
+
+}
+
+.searchScope {
+	 background:#990000;
+	 color:white;
+}
+
+.style1 {
+	color: #FFFFFF;
+	font-size:.8em;
+}
+
+/*ul
+{
+	margin-top: 0.5em;
+	margin-left:5em;	
+	margin-bottom: 0.8em;
+	
+}	
+
+*/
+
+ul.sitemap {
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	}
+
+ul.sidebar {
+margin-top: 1em;
+}
+
+ul.ul{
+margin-top: 0.2em;
+margin-left: .2em;
+}
+
+
+.subTitle {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.3em;
+	color: #008080;
+	font-weight:bold;
+}
+
+.subTitle2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.7em;
+	color: #000000;
+	font-weight:bold;
+	font-style:italic;
+		
+}
+
+
+.RedTitle {
+	font-size:1.05em;
+	font-style:italic;
+	font-weight:800;
+	color:#800000;
+}
+
+.RedTitle2 {
+	font-size:1.05em;
+	font-style:normal;
+	font-weight:800;
+	color:#800000;
+}
+
+.pageDivider {
+	width: 100%;
+	height: 0.3em;
+	background-color: #008080;
+	margin: 0px;
+
+
+}
+
+.picSubtitle {
+font-size:.75em;
+font-weight:normal;
+}
+
+.picSubtitle2 {
+font-family:Helvetica, Arial, sans-serif;
+	font-size:12px;
+	color: #000000;
+	font-weight:bolder;
+	}
+	
+.picSubtitle3 {
+font-family:Helvetica, Arial, sans-serif;
+	font-size:9px;
+	color: #000000;
+	font-weight:bolder;
+	}
+
+.style2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+	color:#333330;
+	height:1.4em;
+	font-weight:500;
+	white-space: normal;
+}
+
+.style3 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+	color:#333300;
+	height:1.3em;
+	font-style:italic;
+	font-weight:bold;
+}
+
+.style5 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+	color:#00000;
+	line-height:1.5em;
+	font-weight:normal;
+}
+
+.style6 {	color: #FFFFFF;
+	font-weight: bold;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.contentText {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+	color:#000000;
+}
+
+.contentText2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+	color:#000000;
+	font-style: normal;
+	line-height: 1.1em;
+	font-weight: bolder;
+	
+}
+
+.contentTextItalic {
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+	color:#000000;
+	font-style: italic;
+	line-height: 1.1em;
+	font-weight: normal;
+	
+}
+
+.ContentTextblue {
+	font-size:1.0em;
+	color: #0000FF;
+	font-weight: bold;
+	
+}
+
+.contentTextblueSmall {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:.9em;
+	color: #0000FF;
+	font-weight: bold;
+}	
+		
+		
+.contentTextblackSmall {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:.9em;
+	color: #000000;
+}
+		
+.contentTextgreen {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.0em;
+	font-style:italic;
+	font-weight: bold;
+	color:#008080;
+}
+
+.contentTextgreen2 {
+font-family:Arial, Helvetica, sans-serif;
+	font-size:1.0em;
+	font-style: normal;	
+	font-weight: bold;
+	color:#008080;
+}
+
+.contentTextgreenLarge {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:2em;
+	color:#008080;
+	font-style: italic;	
+	front-weight: bold;
+	}
+.TextRedBold {
+	color: #990000;
+	font-weight: bold;
+}
+	
+.smalltext {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: .8em;
+font-style: italic;
+font-weight: bold;
+color: #000000;
+}
+.smalltextRed {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	font-style: italic;
+	font-weight: bold;
+	color: #800000;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.presPhotoleft {
+	float: left;
+	height: 127px;
+	width: 130px;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin:0px 25px 5px 0px;
+}
+
+
+.presPhotoright {
+	float: right;
+	height: 127px;
+	width: 130px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;	
+	margin:0px 0px 0px 0px;
+}
+.largePhotoleft {
+	float: left;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin:0px 25px 5px 0px;
+	
+}
+
+
+.largePhotoright {
+	float: right;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	margin:0px 0px 0px 0px;
+	vertical-align: text-top;
+}
+
+.contentTextJusify
+{
+	text-align: justify;
+}
+
+.captionboxLeft
+{
+	background: #FFFFFF top;
+	text-align: left;
+	padding: 0px;
+	clear: left;
+	float: left;
+	width: 225px;
+	position: static;
+	left: 201px;
+	top: 319px;
+	bottom: auto;
+	height: auto;
+	margin: 0px 10px 0px 0px;
+	visibility: visible;
+	border: thin solid #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	line-height: 1.2em;
+}
+
+.captionboxRight
+{
+	text-align: left;
+	clear: right;
+	float: right;
+	height: auto;
+	width: 300px;
+	vertical-align: top;
+	margin: 0px;
+	border-color: #6633CC;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	line-height: 1.2em;
+}
+
+.photoAndCaptionRight {
+	background: #FFFFFF top;
+	text-align: left;
+	clear: right;
+	float: right;
+	right: auto;
+	bottom: auto;
+	margin: 0px 0px 20px;
+	visibility: visible;
+	border: thin solid #FFFFFF;
+	caption-side: inherit;
+	padding: 0px 0px 0px 20px;
+}
+
+.photoAndCaptionLeft{
+	background: #FFFFFF top;
+	text-align: right;
+	clear: left;
+	float: left;
+	right: auto;
+	bottom: auto;
+	margin: 0px 20px 0px 0px;
+	visibility: visible;
+	border: thin solid #FFFFFF;
+	caption-side: inherit;
+	padding: 0px 0px 0px 0px;
+}
+
+.photoAndCaptionRightBottom {
+	background: #FFFFFF top;
+	text-align: left;
+	clear: right;
+	float: right;
+	right: auto;
+	bottom: auto;
+	margin: 0px 0px 20px;
+	visibility: visible;
+	border: thin solid #FFFFFF;
+	padding: 0px 0px 0px 20px;
+	caption-side: bottom;
+}
+
+
+.indexList {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.5em;
+	background-color:#E2EFEE;
+	line-height: 3.0em;
+}
+
+.highlightBar {
+	background-color: #008080;
+	font-weight:600;
+	text-align:center;
+	color:#ffffff;
+
+}
+
+.dateLine
+{
+	height: 15px;
+}
